@@ -1,0 +1,2 @@
+rootProject.name='MedXpert'
+include ':app'
